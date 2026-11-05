@@ -12,7 +12,7 @@ import storage
 
 BG = "#f3f6fa"
 INK = "#142d40"
-MUTED = "#65778a"
+MUTED = "#032344"
 TEAL = "#007f75"
 NAVY = "#112b3c"
 WHITE = "#ffffff"
